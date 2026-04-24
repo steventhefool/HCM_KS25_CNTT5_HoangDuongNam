@@ -45,6 +45,6 @@ delete from products where price < 1000000;
 
 select * from products;
 select * from products where stock > 15;
-select * from products where stock >1000000 and 25000000;
+select * from products where price >1000000 and 25000000;
 select * from products where product_name = 'iphone 15' and stock >0;
 select * from products where category_id = 1 and price > 500000
