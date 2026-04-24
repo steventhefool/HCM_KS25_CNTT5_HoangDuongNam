@@ -26,7 +26,7 @@ insert into categories (category_name) values
 insert into Products (product_name, price, stock,category_id) values 
 	('Iphone 15', 25000000, 10, 1),
     ('Samsung S23', 20000000, 5, 1),
-    ('Áo sơ mi nam', 5000000, 50, 2),
+    ('Áo sơ mi nam', 500000, 50, 2),
     ('Giày thể thao', 1200000, 20, 2)
 ;
 
